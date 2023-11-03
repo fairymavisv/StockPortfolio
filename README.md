@@ -28,4 +28,4 @@ The goal is not only to enhance the functionality of the Stock Portfolio project
 
 The Stock Portfolio project, in its renewed form, aims to stand as a testament to the idea that setbacks are not the end but rather the catalysts for growth. Stay tuned for updates as I work towards turning this vision into reality.
 
-Thank you for your interest and support!
+Thanks for your interest and support!
