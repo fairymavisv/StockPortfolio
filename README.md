@@ -1,4 +1,4 @@
-# Stock Portfolio Project - ReCOMP3900
+# Stock Portfolio Project - Re COMP3900
 ## Introduction
 
 Welcome to the `Stock Portfolio` project, a comprehensive full-stack application designed as part of the undergraduate course COMP3900. This project serves not only as an academic endeavor but also as a personal journey of redemption and technical improvement.
